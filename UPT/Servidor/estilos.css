@@ -1,0 +1,44 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+table {
+    width: 600px;
+    border: 1px solid black;
+}
+
+table th {
+    padding: 2px;
+    border: 1px solid rgb(10, 5, 85);
+}
+
+table td {
+    padding: 2px;
+    border: 1px solid black;
+}
+
+input {
+    width: 250px;
+    padding: 3px;
+}
+
+input:focus {
+    outline: red;
+}
+
+input[type='submit'] {
+    background: rgb(91, 189, 189);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.eliminado {
+    background: red;
+    color: rgb(0, 0, 0);
+}
+
+.insertado {
+    background: blue;
+    color: rgb(22, 160, 63);
+}
