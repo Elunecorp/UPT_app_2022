@@ -1,5 +1,6 @@
 # UPT_app_2022
 Aplicación de asistencia y control de aforo para la UPT
+PROYECTO INICIADO POR: Fernando Acostupa G.
 
 Este proyecto tuvo comienzo el dia: 28/09/2022
 
